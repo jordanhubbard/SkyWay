@@ -1,0 +1,5 @@
+{
+  "name": "SkyWay Airport Explorer",
+  "description": "A comprehensive airport information portal that provides detailed airfield data, services, and AI-powered visual exploration including airport photos, FBO views, and aerial imagery with built-in image editing capabilities.",
+  "requestFramePermissions": []
+}
